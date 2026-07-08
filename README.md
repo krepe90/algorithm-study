@@ -1,7 +1,6 @@
-# study-BOJ
+# algorithm-study
 
-[백준 온라인 저지](https://www.acmicpc.net) 연습용 레포지토리.
+각종 코딩테스트 사이트 연습용 레포지토리.
 
 ## 사용할 언어
-- C
-- Python
+- Python (3.14)
